@@ -1,0 +1,2 @@
+DATABASE_URL="your prisma accelerate connection pool url"
+JWT_SECRET="your secret"
